@@ -1,0 +1,5 @@
+Rahul   | 16csu185    | 8.3         | NCU          | 
+Rohit   | 16meu057    | 8.55        | NCU          | 
+Aakash  | 16ece098    | 9.23        | NCU          | 
+Kriti   | 16csu277    | 7.87        | NCU          | 
+Pooja   | 16csu135    | 8.19        | NCU          | 
